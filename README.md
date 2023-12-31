@@ -18,4 +18,4 @@
     3- keep tracking Of The Quizzed Results
 
 # Probelms 
-     The Problems Here Is A Problems Solved Using clean Code  You Can Take Look On Them because There Is Some Tricy Ones Solved in The Best Time&Mmeorey Complixicty
+     The Problems Here Is A Problems Solved Using clean Code  You Can Take Look On Them because There Is Some Tricky Ones Solved in The Best Time&Mmeorey Complixicty
