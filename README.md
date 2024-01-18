@@ -1,5 +1,5 @@
 # Notice
-     I Have Done These  Problems And Porjects in 2023/6/3 But Pushed It Today :3
+     I Have Done These  Problems And Porjects in 2023/2/25 But Pushed It Today :3
 #  Programming Advices
      These problems And Projects Where Inspired From Programming Advices PaltForm 
 
